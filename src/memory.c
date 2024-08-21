@@ -36,7 +36,6 @@ uint8_t pv1000_readIO(z80_t* z80, uint16_t addr){
     }
 
     if(addr == 0xFD){
-        z80->cycles += 32;
         return controller_read(&pv1000->controller);
     }
 
