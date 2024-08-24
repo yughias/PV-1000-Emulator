@@ -31,6 +31,7 @@ void pv1000_init(pv1000_t* pv1000, const char* filename, int sampleRate){
 
     memset(pv1000->memory, 0xFF, 0x1000);
     fread(pv1000->memory, 1, size, fptr);
+    fclose(fptr);
 }
 
 void pv1000_runFrame(pv1000_t* pv1000){
