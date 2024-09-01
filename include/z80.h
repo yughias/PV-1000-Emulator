@@ -31,6 +31,7 @@ typedef struct z80_t {
     bool     HALTED;
     bool     INTERRUPT_ENABLED;
     bool     INTERRUPT_PENDING;
+    bool     INTERRUPT_DELAY;
     uint8_t  INTERRUPT_MODE;
     uint8_t INTERRUPT_VECT;
 
