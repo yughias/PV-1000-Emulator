@@ -33,4 +33,4 @@ You can try a demo of the emulator [here](https://yughias.github.io/pages/pv-100
 | ![](data/imgs/screenshot_4.png) | ![](data/imgs/screenshot_5.png) | ![](data/imgs/screenshot_6.png) |
 | ![](data/imgs/screenshot_7.png) | ![](data/imgs/screenshot_8.png) | ![](data/imgs/screenshot_9.png) |
 | ![](data/imgs/screenshot_10.png) | ![](data/imgs/screenshot_11.png) | ![](data/imgs/screenshot_12.png) |
-| ![](data/imgs/screenshot_13.png) |  |  |
+| | ![](data/imgs/screenshot_13.png) |  |
